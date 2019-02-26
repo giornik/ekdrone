@@ -1,0 +1,14 @@
+http://mydronelab.com/blog/arduino-quadcopter.html
+(How to Make Arduino Quadcopter Drone: Step-by-Step DIY Project)
+
+https://www.instructables.com/id/How-to-Make-a-Drone-Using-Arduino-Make-a-Quadcopte/
+(How to Make a Drone Using Arduino UNO | Make a Quadcopter Using Microcontroller)
+
+https://www.instructables.com/id/Sturdy-Quadcopter-Build/
+(Sturdy Quadcopter Build)
+
+https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/
+(How to choose the right size motors & ESCs for your Drone, quadcopter, or Multirotor build)
+
+https://www.instructables.com/id/Overview-of-Quadcopter-Components-How-to-Select-Pa/
+(Overview of Quadcopter Components / How to Select Parts)
